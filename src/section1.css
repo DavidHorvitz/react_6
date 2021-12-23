@@ -1,0 +1,9 @@
+#section1{
+  float: right;
+    /* content: ""; */
+    /* display: table; */
+    /* clear: both; */
+    width: 600px;
+    height: 380px;
+    background-color: rgb(116, 78, 151);
+  }

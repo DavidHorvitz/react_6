@@ -4,6 +4,7 @@ header {
     text-align: center;
     font-size: 35px;
     color: white;
+    height: 30%;
   }
   * {
     box-sizing: border-box;

@@ -1,0 +1,10 @@
+#section2{
+    float: left;
+    /* content: ""; */
+    /* display: table; */
+    /* clear: both; */
+    width: 600px;
+    height: 380px;
+    background-color: rgb(233, 227, 238);
+    border:2px solid rgb(197, 96, 96);
+  }
